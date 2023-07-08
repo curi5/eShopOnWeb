@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-Az-400
   LOCATION: uksouth
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: ${{ secrets.AZURE_SUBSCRIPTIONID }}
+  SUBSCRIPTION-ID: f58399ea-adb8-4df4-b154-14e2e9cb69ba
   WEBAPP-NAME: az400-webapp-Az-400-But-With-Bigger-Penis
 
 
